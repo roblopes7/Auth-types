@@ -19,3 +19,7 @@ kstateless-auth-api/src/main/java/br/com/udemy/statelessauthapi/infra/exception/
 gstateless-auth-api/src/main/java/br/com/udemy/statelessauthapi/infra/exception/ValidationException.java,2\e\2e195e3b794e72936b50155452e9fb20ef001f97
 š
 jstateless-auth-api/src/main/java/br/com/udemy/statelessauthapi/infra/exception/ExceptionGlobalHandler.java,2\4\249af6b8693d371e416e01adc85938700c31548b
+M
+stateless-auth-api/Dockerfile,4\9\49e7bc9de1283f0fa6ba25252e2f9fe526ddb0b6
+L
+stateless-any-api/Dockerfile,b\b\bbe865f0d73ab3ecd2a5aafa2db7f2ebc23289b6
