@@ -1,6 +1,4 @@
 
-å
-\stateless-any-api/src/main/java/br/com/udemy/statelessanyapi/StatelessAnyApiApplication.java,f\f\ffa62274a843c286681c4439e0df77eba45a0bd4
 k
 ;stateless-auth-api/gradle/wrapper/gradle-wrapper.properties,5\f\5f4673f491c53b4fc0001911b1f819160d98079d
 N
@@ -17,3 +15,11 @@ M
 stateless-auth-api/Dockerfile,4\9\49e7bc9de1283f0fa6ba25252e2f9fe526ddb0b6
 L
 stateless-any-api/Dockerfile,b\b\bbe865f0d73ab3ecd2a5aafa2db7f2ebc23289b6
+X
+(.idea/modules/stateless-any-api.main.iml,f\5\f56c5e6653cf47149b9afea033b9fe7542dcd58f
+à
+Xstateless-auth-api/src/main/java/br/com/udemy/statelessauthapi/core/dto/AuthRequest.java,8\a\8ab4b65ae1e6d128ce473df45dd1dabd6469a1a6
+Ö
+Ustateless-auth-api/src/main/java/br/com/udemy/statelessauthapi/core/dto/TokenDto.java,6\d\6d59c692d64c20dd407fe9d3c2d5bca8ac23cc2d
+è
+_stateless-auth-api/src/main/java/br/com/udemy/statelessauthapi/infra/PasswordEncoderConfig.java,a\b\abfcd655a352d9854a8c15b454648419ba8ba507
