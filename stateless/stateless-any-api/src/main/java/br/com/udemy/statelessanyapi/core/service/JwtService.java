@@ -35,7 +35,7 @@ public class JwtService {
         try {
             return Jwts
                     .parser()
-                    .setSigningKey(generateSign())
+                    .verifyWith(generateSign())
                     .build()
                     .parseSignedClaims(accessToken)
                     .getPayload();

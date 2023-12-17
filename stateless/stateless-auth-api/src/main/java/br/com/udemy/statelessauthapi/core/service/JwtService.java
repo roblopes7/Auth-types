@@ -56,7 +56,7 @@ public class JwtService {
         try {
             Jwts
                     .parser()
-                    .setSigningKey(generateSign())
+                    .verifyWith(generateSign())
                     .build()
                     .parseSignedClaims(accessToken)
                     .getPayload();
